@@ -1,0 +1,17 @@
+:root {
+    --color-bg-primary: #d0d6df;
+    --color-bg-primary-offset: #f1f3f7;
+    --color-bg-secondary: #fff;
+    --color-text-primary: #3a3c42;
+    --color-text-primary-offset: #898c94;
+    --color-orange: #dc9960;
+    --color-green: #1eb8b1;
+    --color-purple: #657cc4;
+    --color-black: var(--color-text-primary);
+    --color-red: #d92027;
+    --color-box-shadow:0 10px 20px rgba(64, 64, 64, 0.15);
+    --button-border-radius:8px;
+    --border-radius:10px;
+    --font-family:"Inter", sans-serif;
+    --border-top: 1px solid #ddd;
+  }
